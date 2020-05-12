@@ -4,7 +4,7 @@ A super simple project base that uses parcel as a bundler and includes linting w
 
 ### To install
 
-`npm run install`
+`npm install`
 
 ### To start in development mode
 
